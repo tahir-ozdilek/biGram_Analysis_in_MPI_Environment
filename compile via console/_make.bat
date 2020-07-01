@@ -1,0 +1,1 @@
+csc /target:exe /reference:mscorlib.dll /reference:Easy.Common.dll /reference:MPI.dll /reference:Nuve.dll /reference:netstandard.dll /out:tahir_ozdilek.exe _Source.cs
